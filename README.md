@@ -35,25 +35,12 @@ Add your API_KEY and your own credentials from your firebase project to android 
 ```sh
 $ pub get
 ```
-### Credits
-Kudos to [Dibbendo Pranto](https://dribbble.com/Dibbendopranto) for this design.
+
 
 ### Development
 
 We love contributors. Looking forward to as many as possible.
 App may still have issues and bugs that may have a quick fix that we missed while development.
 
-### Developer
-
-We are a team of digital nomads who believe in open-source development and free-for-all products.
-We welcome anyone who is genuine and interested in developing great product that solve real world problems.
-
-You can get in touch with us at dev@ocg.technology
-
-## How can I support developers?
-- Star our GitHub repo
-- Create pull requests, submit bugs, suggest new features or documentation updates
 
 
-## Can I hire you guys?
-Yes! We are available for hire. Visit [our homepage](https://ocg.technology/) or simply leave us a note to contact@ocg.technology. We will be happy to work with you!
